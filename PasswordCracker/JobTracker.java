@@ -9,7 +9,8 @@ import java.util.List;
 import java.util.Scanner;
 
 
-public class JobTracker {
+public class JobTracker 
+{
 
     String myPath = "/jobtracker";
     String pendingPath = "/pending";
